@@ -1,3 +1,3 @@
-FooCoin (FOO)
+KaraCoin (KRA)
 
 Blah, blah, blah.
